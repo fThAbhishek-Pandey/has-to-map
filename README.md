@@ -1,1 +1,1 @@
-# has-to-map
+here is the collection of hashig and mapping 
